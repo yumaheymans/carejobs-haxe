@@ -1,0 +1,11 @@
+{
+  "name": "carejobs",
+  "url": "https://github.com/yumaheymans/carejobs-haxe",
+  "license": "MIT",
+  "tags": ["carejobs", "healthcare", "jobs", "api", "client", "http", "mcp"],
+  "description": "Client for the free CareJobs.Now healthcare jobs API: search US healthcare jobs, posted pay, employers and states.",
+  "version": "1.0.0",
+  "classPath": "src",
+  "releasenote": "First release: searchJobs, payByKind, employers, states and the 17 kinds of job.",
+  "contributors": ["carejobs"]
+}
